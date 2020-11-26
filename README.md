@@ -1,5 +1,9 @@
 Flask
-<p>Criando Ambiente para usar flask com segurança:</p>
-- ```conda create --name myenv```
+<p>
+  Criando Ambiente para usar flask com segurança:
+  - ```conda create --name myenv```
+
+</p>
+
 
 Install flask usando conda:
